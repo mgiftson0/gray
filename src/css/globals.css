@@ -17,7 +17,7 @@
 
 @custom-variant dark (&:is(.dark *));
 
-/* shadcn style variants — applied as body classes (e.g. .style-nova) */
+/* UI style variants — applied as body classes (e.g. .style-nova) */
 
 @custom-variant style-lyra (&:where(.style-lyra *));
 
